@@ -32,4 +32,4 @@ there is not much to setup in the teduino just uplaod the code and it should run
 
 you can change this depentding on your ardiuno but make sure it is a pwm pin in the case for arduino uno pin 3, 5, 6, 9, 10, 12;
 
-
+last but not least this app uses the Java-Arduino-Communication-Library so thank you https://github.com/HirdayGupta
